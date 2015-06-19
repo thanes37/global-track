@@ -1,0 +1,1 @@
+An App, that tracks and logs the location of a User on android devices. To then send to an account on a server to then be accessed by a computer to show advanced statistics, on the tracked data.
